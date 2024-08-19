@@ -1,0 +1,37 @@
+.scoreStyle {
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: 50px;
+  }
+  
+  .btn-outline-score {
+    background-color: rgb(202, 58, 58) !important;
+    color: rgb(255, 255, 255) !important;
+    width: 100px;
+    border-color: rgb(255, 255, 255) !important;
+    border-radius: 25px;
+  }
+  .btn-outline-secondary {
+    background-color: rgb(34, 92, 65) !important;
+    color: rgb(255, 255, 255) !important;
+    width: 200px;
+    border-radius: 25px;
+  }
+  
+  .pageBackground {
+    position: relative;
+    padding: 20rem 0;
+    background-image: url(/dart.jpg) ;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .pageBackground .pageBackground-content {
+    position: relative;
+    z-index: 9999;
+    border: solid rgb(128, 7, 7) 5px;
+    background-color: rgba(0, 0, 0, 0.496);
+    padding-bottom: 30px;
+    width: 40%;
+  }
+  
